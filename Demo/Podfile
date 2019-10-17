@@ -2,5 +2,5 @@
 platform :ios, ‘8.0’
 
 target 'Demo' do
-  pod 'PGPickerView'
+  pod 'PGPickerView', :git => 'https://github.com/wmh8638/PGPickerView.git'
 end
